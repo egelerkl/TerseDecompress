@@ -72,9 +72,10 @@ How to report problems and get support/help:
 
 ============================================
 
-   If you have a problem / need help with TerseDecompress.java, please send 
+   If you have a problem / need help with TerseDecompress.java, please create 
+   a GitHub issue.  
 
-   an email to: clientcenter@de.ibm.com
+   You can also send an email to: clientcenter@de.ibm.com
 
    
 
