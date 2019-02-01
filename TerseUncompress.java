@@ -20,7 +20,8 @@
 /*   limitations under the License.                                          */
 /*****************************************************************************/
 /*                                                                           */
-/*  For problems and requirements contact: clientcenter@de.ibm.com           */
+/*  For problems and requirements please create a GitHub issue               */
+/*  or contact: clientcenter@de.ibm.com                                      */
 /*                                                                           */
 /*****************************************************************************/
 /*                                                                           */
